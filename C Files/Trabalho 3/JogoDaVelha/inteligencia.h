@@ -1,0 +1,1 @@
+int verifganhar(int n,int p,char **jogo, char simbologanhando,char simbolo);

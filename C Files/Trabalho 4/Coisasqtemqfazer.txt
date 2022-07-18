@@ -1,0 +1,6 @@
+printar de 5 em 5, caso tenha menos tem que acabar // RESOLVIDO
+colocar para voltar com enter em todos as opções
+opçoes que não mostram nada tem que ter um if == 0 mostrar uma mensagem
+posts de autoria tem que printar de 5 em 5
+arrumar os clear
+arrumar a ordem das opções

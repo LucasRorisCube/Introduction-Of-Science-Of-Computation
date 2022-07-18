@@ -1,0 +1,30 @@
+Tratamento de erro
+Menu principal:
+1 - opção invalida
+2 - Nome/Nick maior que 40
+3 - Post com maior de 130 caracteres
+4 - Seguir ela mesma ///////////////////////////////////////////////////////////RESOLVIDO
+5 - Comando para sair de opções
+**Melhor o código/ Detalhes de sitaxe/ Códigos de conduta de programador
+
+
+
+
+/////////////////////////////
+O que precisa fazer:
+1 - Consultar usuário especifico
+2 - Finalizar o Consultar todos os usuarios
+3 - Listar todos os posts
+4 - Funções zerar rede social //////////////////////////////////////////////////RESOLVIDO
+5 - trocar de if para switch
+
+Login usuario:
+1 - Opção mostrar informações
+2 - Listar seguidores e pessoas que segue
+3 - Listar Posts de autoria
+4 - Opção voltar perfil principal
+5 - Opção invaleda menu login
+6 - melhorar os clear
+7 - Remover Posts - Mensagem e Opção invalida
+8 - Sintaxe do Posts
+

@@ -1,0 +1,1 @@
+void jogadausuario(char simbolo,int n,char **jogo);
